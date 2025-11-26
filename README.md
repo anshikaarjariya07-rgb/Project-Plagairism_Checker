@@ -3,9 +3,12 @@
 This project is a simple C-based plagiarism detection tool that compares the text content of two files. It removes punctuation, converts everything to lowercase, and checks how many words from the first file appear in the second file. Based on this, it calculates a similarity percentage and classifies the result (High / Moderate / Low similarity).
 # Repository Structure
 
-- `/` (root directory)
-  - `src/` – all `.c` source files
-  - `include/` – all `.h` header files
+- plagiarism-checker/
+  - src/
+     - main.c
+  - include/
+     - file_utils.h
+     - text_processing.h
   - `docs/` – project report, flowcharts, assets
   - `assets/` – optional: screenshots, diagrams
   - `README.md` – this file
