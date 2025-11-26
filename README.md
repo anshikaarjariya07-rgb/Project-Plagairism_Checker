@@ -18,7 +18,6 @@ This project is a simple C-based plagiarism detection tool that compares the tex
      - Output 1.png
      - Output 2.png
      - Output 3.png
-     - structure_diagram.png
   - sample_input/
      - file1.txt
      - file2.txt
