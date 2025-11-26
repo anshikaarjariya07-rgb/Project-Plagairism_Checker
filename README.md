@@ -4,8 +4,8 @@ This project is a simple C-based plagiarism detection tool that compares the tex
 # Repository Structure
 /
 # Getting Started
-A C compiler (GCC recommended)
-Any text editor (VS Code, Notepad++, etc.)
+1. A C compiler (GCC recommended)
+2. Any text editor (VS Code, Notepad++, etc.)
 # Build Instruction
 1. Clone or download the repository
 2. Navigate to the source directory
