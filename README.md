@@ -3,26 +3,26 @@
 This project is a simple C-based plagiarism detection tool that compares the text content of two files. It removes punctuation, converts everything to lowercase, and checks how many words from the first file appear in the second file. Based on this, it calculates a similarity percentage and classifies the result (High / Moderate / Low similarity).
 # Repository Structure
 plagiarism-checker/
-
+|
 |-- src/
 |     └── main.c
-
+|
 |-- include/
 |     ├── file_utils.h
 |     └── text_processing.h
-
+|
 |-- docs/
 |     ├── Algorithm.txt
 |     ├── Flowchart.txt
 |     └── ProjectReport.pdf
-
+|
 |-- assets/
 |     ├── Flowchart.png
 |     ├── Output 1.png
 |     ├── Output 2.png
 |     ├── Output 3.png
 |     └── structure_diagram.png  
-
+|
 |-- sample_input
 |     ├── file1.txt
 |     ├── file2.txt
@@ -30,7 +30,7 @@ plagiarism-checker/
 |     ├── file4.txt
 |     ├── file5.txt
 |     └── file6.txt
-
+|
 |-- README.md
 
 # Getting Started
