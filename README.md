@@ -8,19 +8,29 @@ plagiarism-checker/
 |     └── main.c
 |
 |-- include/
-|     ├── text_processing.h
-|     └── file_utils.h
+|     ├── file_utils.h
+|     └── text_processing.h
 |
 |-- docs/
-|     ├── algorithm.txt
-|     ├── flowchart.txt
-|     └── project_report.txt
+|     ├── Algorithm.txt
+|     ├── Flowchart.txt
+|     └── ProjectReport.pdf
 |
 |-- assets/
-|     ├── sample_output.png      
+|     ├── Flowchart.png
+|     ├── Output 1.png
+|     ├── Output 2.png
+|     ├── Output 3.png
 |     └── structure_diagram.png  
 |
 |-- sample_input
+|     ├── file1.txt
+|     ├── file2.txt
+|     ├── file3.txt
+|     ├── file4.txt
+|     ├── file5.txt
+|     └── file6.txt
+|
 |-- README.md
 
 # Getting Started
