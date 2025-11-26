@@ -1,0 +1,11 @@
+1.	Start program.
+2.	Ask user to enter two filenames.
+3.	Open both files and read contents into buffers.
+4.	Remove punctuation from both strings.
+5.	Convert all characters to lowercase.
+6.	Duplicate clean text for safe tokenization.
+7.	Tokenize the first text into words.
+8.	Count how many words appear in the second text.
+9.	Calculate similarity percentage = (matched words / total words) × 100.
+10.	Display similarity percentage and category.
+11.	End program.
