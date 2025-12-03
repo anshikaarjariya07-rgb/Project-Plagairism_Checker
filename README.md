@@ -7,6 +7,7 @@ This project is a simple C-based plagiarism detection tool that compares the tex
 plagiarism-checker/
 |-- src/
 | |-- main.c
+| |-- function.c
 |
 |-- include/
 | |-- file_utils.h
